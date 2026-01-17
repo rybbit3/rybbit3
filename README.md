@@ -19,6 +19,13 @@
 
 <br>
 
+### 🎓 Education
+| Degree | Details |
+| :--- | :--- |
+| **Bachelor's Degree** | <img src="https://img.shields.io/badge/Mokpo_Nat'l_Univ.-Information_Security-004A99?style=flat-square"/> |
+
+<br>
+
 ### 🏆 Certifications
 | Level | Certificates |
 | :--- | :--- |
