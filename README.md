@@ -22,12 +22,12 @@
 ### 🎓 Education
 | Degree | Details |
 | :--- | :--- |
-| **Bachelor's Degree** | <img src="https://img.shields.io/badge/Mokpo_Nat'l_Univ.-Information_Security-004A99?style=flat-square"/> |
+| **Bachelor's Degree** | <img src="https://img.shields.io/badge/Mokpo_Nat'l_Univ.-Information_Security-00994C?style=flat-square&logo=googlescholar&logoColor=white"/> |
 
 <br>
 
 ### 🏆 Certifications
 | Level | Certificates |
 | :--- | :--- |
-| **Cloud** | ![AWS Security](https://img.shields.io/badge/AWS-Security_Specialty-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![AWS SAA](https://img.shields.io/badge/AWS-Solution_Architect-232F3E?style=flat-square&logo=amazon-aws&logoColor=FF9900) ![Azure](https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
-| **Infra** | ![CKA](https://img.shields.io/badge/CKA-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+| **Cloud** | <img src="https://img.shields.io/badge/AWS-Security_Specialty-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-Solution_Architect-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-Fundamentals_(AZ--900)-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white"/> |
+| **Infra** | <img src="https://img.shields.io/badge/CKA-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/> |
